@@ -25,7 +25,7 @@ $ python3 main.py --filepath data/example.txt --generate_filepath data/generated
   
 |Inputs|Targets|  
 |:----:|:-----:|  
-|Welooking fortalented  colleagues  towork with.|We looking for talented colleagues to work with. |  
+|Wear elooking fortalented  colleagues  towork with.|We are looking for talented colleagues to work with. |  
 |My d reamistoma k ear tificialintelligence like Jarvisin the movie Ir onMan|My dream is to make artificial intelligence like Jarvis in the movie Iron Man|  
 |Ifyouare interested,ple ase don't hesitateto contact me.|If you are interested, please don't hesitate to contact me.|  
   
