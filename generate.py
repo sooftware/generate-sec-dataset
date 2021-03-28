@@ -63,7 +63,7 @@ def generate_dataset(filepath: str, generate_filepath: str) -> None:
             input_ = _add_space_randomly(input_)
             inputs.append(input_)
 
-    with open(generate_filepath) as f:
+    with open(generate_filepath, 'w') as f:
         f.write("inputs\ttargets")
 
         for input_, target in zip(inputs, targets):
